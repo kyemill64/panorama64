@@ -102,11 +102,11 @@ body {
 }
 .wrap #circle article .inner>div:hover h2  {
     color: lightcyan; 
-    text-shadow: 0px 0px 10px aqua;    
+    text-shadow: 0px 0px 10px rgb(255, 80, 182);    
 }
 .wrap #circle article .inner>div:hover i {
     color: lightcyan; 
-    text-shadow: 0px 0px 10px aqua; 
+    text-shadow: 0px 0px 10px rgb(255, 80, 182); 
     transform: scale(1.2); 
 }
 
@@ -177,7 +177,7 @@ body {
     background-image: url(candle.jpg);
 }
 .wrap #circle .face3 .inner>div:nth-of-type(2) .pic {
-    background-image: url(candle1.jpg);
+    background-image: url(candle1.webp);
 }
 .wrap #circle .face3 .inner>div:nth-of-type(3) .pic {
     background-image: url(candle.webp);
